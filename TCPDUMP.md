@@ -14,6 +14,6 @@
 #sudo tcpdump -i <net> -nn -w /tmp/captura.pcap :(save the traffic content in a file)
 #sudo tcpdump -r /tmp/captura.pcap (to read the content of the file)
 
-#man tcpdump :general information
+#man tcpdump: general information
 
 #Thanks
